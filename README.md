@@ -1,4 +1,4 @@
-# cipher_playground
+# cipher_playground ft chatGPT
 A Python-based interactive demo of the cipher with detailed explanations and user-driven encryption/decryption.
 
 
@@ -20,4 +20,3 @@ The Vigenère cipher is historically important. It was considered “unbreakable
 - Practicing modular arithmetic in cryptography.
 - Experimenting with Python string manipulation.
 
-## with the help of chatgpt
