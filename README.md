@@ -20,8 +20,4 @@ The Vigenère cipher is historically important. It was considered “unbreakable
 - Practicing modular arithmetic in cryptography.
 - Experimenting with Python string manipulation.
 
-## Usage
-Clone the repository and run:
-
-```bash
-python vigenere.py
+## with the help of chatgpt
